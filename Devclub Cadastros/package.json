@@ -1,0 +1,22 @@
+  {"name": "devclub-cadastro-de-usuarios",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  {
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "@stitches/react": "^1.2.8",
+    "axios": "^1.7.9",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.2",
+    "styled-components": "^6.1.13"
+  }
+}
